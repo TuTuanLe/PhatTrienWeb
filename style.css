@@ -18,7 +18,7 @@ p{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url(./Image/bg.jpg);
+    background: url(./Image/wp2483009-gym-workout-wallpapers.jpg);
     background-size: cover;
 }
 .banner .content{
@@ -56,7 +56,7 @@ header{
     top: 0;
     left: 0;
     width: 100%;
-    padding:40px 100px ;
+    padding:18px 100px ;
     z-index: 10000;
     display: flex;
     justify-content: space-between;
@@ -267,7 +267,7 @@ margin-top: 40px;
     font-weight: 600;
 }
 .contact {
-    background: url(./Image/bg3.jpg);
+    background: url(./Image/1236628.jpg);
     background-size: cover;
 }
 .contactForm{
